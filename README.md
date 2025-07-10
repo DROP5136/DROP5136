@@ -14,6 +14,13 @@
 
 ---
 
+### 🛠 Featured Projects
+
+- [Facial Emotion Recognition System](https://github.com/DROP5136/facial-emotion-recognition)  
+  Real-time facial expression detector using Python and OpenCV.
+  
+---
+
 ### 🧰 Tech Stack
 
 - **Languages:** C++, Python, C  
