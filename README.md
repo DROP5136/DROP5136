@@ -20,7 +20,7 @@
 - **Web Development:** HTML, CSS, JavaScript, React 
 - **Databases:** Oracle SQL  
 - **Tools & Platforms:** Git, GitHub, Adobe Photoshop, Premiere Pro 
-- **Domains:** Artificial Intelligence, Web Development, Ethical Hacking, Operating Systems
+- **Domains:** Artificial Intelligence, Web Development, Cyber Security, Operating Systems
 
 ---
 
