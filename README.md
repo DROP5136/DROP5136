@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lakshay Batra</h1>
+<h1 align="center">Hi, I'm Lakshay Batra👋</h1>
 <p align="center">
   <i>Pre Final year B.Tech CSE Student at Thapar Institute | Aspiring Software Engineer | AI & Web Enthusiast</i>
 </p>
