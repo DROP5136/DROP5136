@@ -45,7 +45,7 @@
 
 - ✅ Built projects like **Facial Emotion Recognition System** and **Netflix Database Clone**
 - 🤝 Strong communication and collaboration skills from academic
-
+  
 ---
 
 ### 📬 Let's Connect
