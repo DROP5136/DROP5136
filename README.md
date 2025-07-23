@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lakshay Batra👋</h1>
+<h1 align="center">Hi, I'm <a href="https://lakshay-batra-dev.github.io/">Lakshay Batra👋</a></h1>
 <p align="center">
   <i>Pre Final year B.Tech CSE Student at Thapar Institute | Aspiring Software Engineer | AI & Web Enthusiast</i>
 </p>
@@ -51,6 +51,8 @@
 ### 📬 Let's Connect
 
 <p align="center">
+  <a href="https://lakshay-batra-dev.github.io/"> <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge"/>
+  </a>
   <a href="mailto:batralakshay16@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
