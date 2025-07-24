@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://lakshay-batra-dev.github.io/">Lakshay Batra👋</a></h1>
+<h1 align="center">Hi, I'm <a href="https://lakshay-batra-dev.github.io/" target="_blank">Lakshay Batra👋</a></h1>
 <p align="center">
   <i>Pre Final year B.Tech CSE Student at Thapar Institute | Aspiring Software Engineer | AI & Web Enthusiast</i>
 </p>
