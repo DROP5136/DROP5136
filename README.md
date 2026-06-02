@@ -16,9 +16,6 @@
 
 ### 🛠 Featured Projects
 
-- [Facial Emotion Recognition System](https://github.com/DROP5136/facial-emotion-recognition)  
-  Real-time facial expression detector using Python and OpenCV.
-  
 ---
 
 ### 🧰 Tech Stack
@@ -34,8 +31,6 @@
 
 ### 🏆 Highlights
 
-- ✅ Built projects like **Facial Emotion Recognition System** and **Netflix Database Clone**
-- 🤝 Strong communication and collaboration skills from academic
   
 ---
 
