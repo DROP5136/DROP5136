@@ -24,7 +24,7 @@
 
 ---
 
-### Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,express,mongodb,mysql,tailwind,git,postman&theme=dark&perline=6" />
@@ -32,7 +32,7 @@
 
 ---
 
-### Stats
+### Github Stats
 
 <p align="center">
   <img height="155" src="https://github-readme-stats.vercel.app/api?username=lakshay-batra-dev&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=6366f1&icon_color=a855f7&text_color=64748b&ring_color=6366f1&hide=prs" />
