@@ -35,13 +35,11 @@
 ### Github Stats
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=DROP5136&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=6366f1&icon_color=a855f7&text_color=64748b&ring_color=6366f1&hide=prs" />
-  &nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DROP5136&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=6366f1&text_color=64748b&langs_count=6" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DROP5136&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay-batra-dev&hide_border=true&background=0d0d0d&ring=6366f1&fire=a855f7&currStreakLabel=6366f1&sideLabels=64748b&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DROP5136&hide_border=true&background=0d0d0d&ring=6366f1&fire=a855f7&currStreakLabel=6366f1&sideLabels=64748b&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" />
 </p>
 
 ---
@@ -127,7 +125,7 @@ Leadership           →  EDC @ TIET — E-Summit (500+ participants)
 <br/>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lakshay-batra-dev&left_color=0d0d0d&right_color=6366f1&left_text=Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DROP5136&left_color=0d0d0d&right_color=6366f1&left_text=Views" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer" />
