@@ -35,9 +35,9 @@
 ### Github Stats
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=lakshay-batra-dev&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=6366f1&icon_color=a855f7&text_color=64748b&ring_color=6366f1&hide=prs" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=DROP5136&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=6366f1&icon_color=a855f7&text_color=64748b&ring_color=6366f1&hide=prs" />
   &nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshay-batra-dev&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=6366f1&text_color=64748b&langs_count=6" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DROP5136&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=6366f1&text_color=64748b&langs_count=6" />
 </p>
 
 <p align="center">
